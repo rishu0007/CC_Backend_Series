@@ -1,0 +1,2 @@
+express generator ek folder bana k deta h, jiska matlab apko khudse folder nhi banana h, to 
+express gen saare files ko isi folder mein daal k dega.
