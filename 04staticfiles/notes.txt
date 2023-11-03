@@ -1,0 +1,8 @@
+static files setup krne k liye : -
+
+step 1 : Create a folder called public
+step 2 : create three folders inside it, images, stylesheets, javascripts
+
+step 3 : configure the express static in index.js file
+
+step 4 : understand the path
