@@ -1,0 +1,10 @@
+ejs setup krne k liye
+
+step 1 : ejs install -> npm i ejs
+step 2 : Configure ejs -> app.set("view engine", "ejs");
+
+step 3 : ek views name se folder banao
+step 4 : usme ejs files banao
+step 5 : send ki jagah render karo -> render krte wqt make sure
+         hum view folder k andar wli hi koi file kaaa name likhe aur render
+         function me .ejs mention na kre
