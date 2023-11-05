@@ -1,2 +1,13 @@
 express generator ek folder bana k deta h, jiska matlab apko khudse folder nhi banana h, to 
 express gen saare files ko isi folder mein daal k dega.
+
+Steps to install Express Generator globally :-
+
+1. npm i express-generator -g
+
+to create new app anywhere :
+1. open cmd and move to desktop
+2. create new app : express appname --view-ejs
+
+now after creatin the express app install the dependencies using the command npm i.
+
