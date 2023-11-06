@@ -1,0 +1,7 @@
+Steps for Mongodb : 
+
+1. install mongoosejs
+2. require and setup connection
+3. make schema
+4. create model and export
+
